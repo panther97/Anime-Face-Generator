@@ -5,3 +5,11 @@ The project Anime-Face-Generator is a Generative Adversarial Network (GAN) based
  
 Dataset Used : https://www.kaggle.com/splcher/animefacedataset
 
+Original image from dataset:
+![Dataset](https://user-images.githubusercontent.com/22273562/149710207-98bc4413-97e1-4512-b53a-b4fd88fdfba0.PNG)
+
+Raw data given to generator model to generate an anime face:
+
+![latent](https://user-images.githubusercontent.com/22273562/149710254-746ee68a-3296-40a7-b4a9-38b7f1c58e01.PNG)
+
+Generated images of anime faces:![generated-images-0025](https://user-images.githubusercontent.com/22273562/149710280-44d8b020-f1f3-46cb-859e-974150f605b3.png)
